@@ -1,0 +1,85 @@
+{
+    "input_path": null,
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_textline_orientation": true
+    },
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": false
+        },
+        "angle": 270
+    },
+    "dt_polys": [
+        [
+            [
+                51,
+                4
+            ],
+            [
+                259,
+                4
+            ],
+            [
+                259,
+                57
+            ],
+            [
+                51,
+                57
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 64,
+        "limit_type": "min",
+        "thresh": 0.2,
+        "max_side_limit": 4000,
+        "box_thresh": 0.3,
+        "unclip_ratio": 2.0
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        0
+    ],
+    "text_rec_score_thresh": 0.0,
+    "return_word_box": false,
+    "rec_texts": [
+        "5983"
+    ],
+    "rec_scores": [
+        0.9994877576828003
+    ],
+    "rec_polys": [
+        [
+            [
+                51,
+                4
+            ],
+            [
+                259,
+                4
+            ],
+            [
+                259,
+                57
+            ],
+            [
+                51,
+                57
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            51,
+            4,
+            259,
+            57
+        ]
+    ]
+}
