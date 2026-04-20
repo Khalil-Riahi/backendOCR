@@ -12,25 +12,25 @@
             "use_doc_orientation_classify": true,
             "use_doc_unwarping": false
         },
-        "angle": 180
+        "angle": 90
     },
     "dt_polys": [
         [
             [
-                0,
-                0
+                71,
+                2
             ],
             [
-                59,
-                0
+                191,
+                5
             ],
             [
-                59,
-                175
+                190,
+                53
             ],
             [
-                0,
-                175
+                70,
+                49
             ]
         ]
     ],
@@ -44,42 +44,42 @@
     },
     "text_type": "general",
     "textline_orientation_angles": [
-        0
+        1
     ],
     "text_rec_score_thresh": 0.0,
     "return_word_box": false,
     "rec_texts": [
-        "216"
+        "209"
     ],
     "rec_scores": [
-        0.9998367428779602
+        0.9934638142585754
     ],
     "rec_polys": [
         [
             [
-                0,
-                0
+                71,
+                2
             ],
             [
-                59,
-                0
+                191,
+                5
             ],
             [
-                59,
-                175
+                190,
+                53
             ],
             [
-                0,
-                175
+                70,
+                49
             ]
         ]
     ],
     "rec_boxes": [
         [
-            0,
-            0,
-            59,
-            175
+            70,
+            2,
+            191,
+            53
         ]
     ]
 }
